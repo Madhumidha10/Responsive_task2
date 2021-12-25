@@ -1,0 +1,61 @@
+.navbar-brand{
+    font-size: xx-small;
+}
+
+
+.card-header
+{
+  
+    padding:10% 5% 10% 5%;
+}
+.card-body{
+    padding:10% 0% 0% 0%;
+}
+.card-footer{
+    padding:2% 0% 2% 0%;
+}
+.btn-group-md{
+    padding:2% 0% 5% 0%;
+}
+.award{
+    padding:2% 0% 2% 0%;
+}
+.dark{
+    background-color:rgba(27,28,29,255)   !important;
+    color:#ffffffb7 !important; 
+    
+}
+
+
+.btn-1
+{
+    background-color:rgb(216, 211, 211);
+    color: rgb(92, 90, 90);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+    
+}
+.btn-2
+{
+    background-color:rgb(214, 4, 4);
+    color: rgb(241, 235, 235);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.btn-3
+{
+    background-color:rgb(247, 103, 7);
+    color: rgb(241, 235, 235);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+hr {
+    display: inline-block;
+    width:30%;
+    
+}
+.my-box{
+    font-size: xx-small;
+    padding: 5% 5% 5% 5%;
+    
+}
